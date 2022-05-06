@@ -1,4 +1,4 @@
-package com.example.myintentapp
+package com.evernote.shareIntent
 
 
 import android.util.Log

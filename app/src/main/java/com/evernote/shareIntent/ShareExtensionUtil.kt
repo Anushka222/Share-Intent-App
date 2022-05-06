@@ -1,4 +1,4 @@
-package com.example.myintentapp
+package com.evernote.shareIntent
 
 import android.app.Activity
 import android.content.Context
@@ -10,8 +10,6 @@ import android.os.Build
 import android.os.Bundle
 import android.os.Parcelable
 import android.util.Log
-import android.webkit.MimeTypeMap
-import android.widget.Toast
 import androidx.annotation.RequiresApi
 import java.io.File
 import java.io.InputStream
